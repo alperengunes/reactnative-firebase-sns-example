@@ -22,3 +22,9 @@ device subscription id is database register process
 ```javascript
  .then(x => registerDB(x,response.data.id))
  ```
+ 
+sending notifications from device numbers registered in the database --laravel/php
+
+https://github.com/alperengunes/laravel-amazonsnstrait
+ 
+ 
