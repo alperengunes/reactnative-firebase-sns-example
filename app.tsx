@@ -141,7 +141,7 @@ function App() {
   // color set in native by rootView's background color. You can replace
   // with your own loading component if you wish. xx
   if (!rootStore) return null
-  // over
+  // over test 33
   // otherwise, we're ready to render the app
   return (
     <ToggleStorybook>
